@@ -3,7 +3,6 @@ Replace this with a list of your favorite things.
 * Quesadillas
   * De asada
   * De maiz
-* Hamburguesa
 
 1. Comer
 2. Lavarse manos
